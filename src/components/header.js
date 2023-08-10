@@ -2,7 +2,7 @@ import React from 'react'
 
 const header = () => {
   return (
-    <h1>Fast React Pizza Co.</h1>
+    <h1 className='header'>Fast React Pizza Co.</h1>
   )
 }
 export default header

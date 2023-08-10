@@ -14,7 +14,7 @@ const Footer = () => {
   console.log(message)
   
   return (
-    <div>{new Date().toLocaleDateString()}. 
+    <div className='footer'>{new Date().toLocaleDateString()}. 
     {message}
     </div>
   )
