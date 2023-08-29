@@ -4,6 +4,5 @@ function App() {
   return (
     <div className='container header'>
       <Menu  />
-    </div>
-  );}
+    </div> );}
 export default App;
